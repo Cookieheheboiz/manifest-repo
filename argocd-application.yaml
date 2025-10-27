@@ -8,7 +8,7 @@ spec:
 
   # Nguồn: Trỏ đến "manifest-repo"
   source:
-    repoURL: https://github.com/your-username/manifest-repo.git
+    repoURL: https://github.com/Cookieheheboiz/manifest-repo.git
     targetRevision: HEAD # Theo dõi nhánh main/master
     path: . # Theo dõi thư mục gốc (hoặc thư mục con nếu bạn muốn)
 
