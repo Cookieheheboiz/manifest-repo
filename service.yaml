@@ -8,7 +8,7 @@ spec:
   selector:
     # Dòng này RẤT QUAN TRỌNG:
     # Nó phải khớp với 'matchLabels' trong file 'deployment.yaml' của bạn
-    app: hello-spring
+    app: my-app
   ports:
     - protocol: TCP
       # Cổng mà service sẽ lắng nghe
