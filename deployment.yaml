@@ -15,6 +15,6 @@ spec:
       containers:
         - name: my-app-container
           # CHÚ Ý: Đây là image tag mà GitHub Actions sẽ cập nhật
-          image: cookieboiz/hello-spring-k8s:20251103-231e5b0
+          image: cookieboiz/hello-spring-k8s:20251103-23b8dcd
           ports:
             - containerPort: 8080
